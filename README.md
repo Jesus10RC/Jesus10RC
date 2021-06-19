@@ -15,4 +15,4 @@
 
 ## Connect with Me
 [![Instagram](https://img.shields.io/badge/Instagram-@jesusresendizc-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/jesusresendizc)
-[![Twitter](https://img.shields.io/badge/Twitter-@jesusresendiz-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://https://twitter.com/Lumillion9)
+[![Twitter](https://img.shields.io/badge/Twitter-@Lumillion9-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://https://twitter.com/Lumillion9)
