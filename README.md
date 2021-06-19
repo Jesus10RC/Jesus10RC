@@ -9,6 +9,6 @@
 ![Google Colab](https://img.shields.io/badge/Google_Colab-3DDC84?style=for-the-badge&logo=google-colab&logoColor=white&labelColor=101010)</br>
 
 ## Goals 2021
- -Mastering the aforementioned Programming Languages 
- -Automate huge databases of Financial Information
- -Contribute to the GitHub Community
+   -[Mastering the aforementioned Programming Languages ]
+   -[Automate huge databases of Financial Information]
+   -[Contribute to the GitHub Community]
