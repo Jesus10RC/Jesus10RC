@@ -1,4 +1,5 @@
-### 👋 Hi Everybody! Mi name is Jesus Resendiz 
+# 👋 Hi Everybody! Mi name is Jesus Resendiz 
+### I'm a professor of Financial Risk Analysis and Invesment Portfolios, this GitHub profile will serve as a repertoire to store and show a little of my work. Below yo can observe some practices that I use to Analysis Data, automate Statistical and Financial calculations. 
 
 <!--
 **Jesus10RC/Jesus10RC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
