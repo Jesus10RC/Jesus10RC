@@ -16,7 +16,7 @@
 ## Connect with Me
 [![Instagram](https://img.shields.io/badge/Instagram-@jesusresendizc-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/jesusresendizc)
 [![Twitter](https://img.shields.io/badge/Twitter-@lumillion9-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/Lumillion9)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jesus_Resendiz-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://https://www.linkedin.com/in/jesus-resendiz-7a6035215/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jesus_Resendiz-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/jesus-resendiz-7a6035215/)
 
 
 ###               ¡Thank you very much for your visit!
