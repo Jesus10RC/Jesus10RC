@@ -18,7 +18,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-@lumillion9-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/Lumillion9)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jesus_Resendiz-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/jesus-resendiz-7a6035215/)
 
-**Note**: Each repository contains the necessary Script to replicate the practices, as well as databases that will help you to verify that the code works. You just have to be careful with the "path" or link of the file explorer that comes in the code.
+**Note**: Each repository contains the necessary Script to replicate the practices, as well as databases that will help you to verify that the code works. You just have to be careful with the "path" or link of the file explorer that comes in the code. For the code to work, the link must be adjusted.
 
 
 ###               ¡Thank you very much for your visit!
