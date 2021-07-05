@@ -3,6 +3,11 @@
 
 ![imegeA](https://user-images.githubusercontent.com/86130991/122630691-50d37900-d08b-11eb-8d5e-62255e53e4b7.gif)
 
+## About my code:
+<p>
+As I mentioned at the beginning, much of the code that I am going to share in this profile is about Quantitative Finance practices. To obtain relevance indicators, risk metrics, financial models and graphical representations, as you can see below.
+</p>
+
 ![MyPlots](https://user-images.githubusercontent.com/86130991/124473602-252be080-dd65-11eb-8842-6f2fc82c968d.gif)
 
 ## Programming Languages
