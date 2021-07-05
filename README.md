@@ -3,7 +3,7 @@
 
 ![imegeA](https://user-images.githubusercontent.com/86130991/122630691-50d37900-d08b-11eb-8d5e-62255e53e4b7.gif)
 
-![imegeA](https://github.com/Jesus10RC/Jesus10RC/issues/2#issue-937057278)
+![MyPlots](https://user-images.githubusercontent.com/86130991/124473602-252be080-dd65-11eb-8842-6f2fc82c968d.gif)
 
 ## Programming Languages
 ![Python](https://img.shields.io/badge/python-3DDC84?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)</br>
