@@ -3,8 +3,7 @@
 
 ![imegeA](https://user-images.githubusercontent.com/86130991/122630691-50d37900-d08b-11eb-8d5e-62255e53e4b7.gif)
 
-## About my code: <a href="![2](https://user-images.githubusercontent.com/86130991/130230539-ce8b7fd4-3c68-4ffb-8295-1a21ae41e809.gif)"><img align="right" src="![2](https://user-images.githubusercontent.com/86130991/130230539-ce8b7fd4-3c68-4ffb-8295-1a21ae41e809.gif)"></a>
-
+## About my code: 
 <p>
 As I mentioned at the beginning, much of the code that I am going to share in this profile is about Quantitative Finance practices. To obtain relevance indicators, risk metrics, financial models and graphical representations, as you can see below.
 </p>
