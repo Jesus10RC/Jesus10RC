@@ -12,6 +12,8 @@ As I mentioned at the beginning, much of the code that I am going to share in th
 ![2](https://user-images.githubusercontent.com/86130991/130230539-ce8b7fd4-3c68-4ffb-8295-1a21ae41e809.gif)       
 
 
+The different projects that you can find here are carried out both in different Programming Languages and in different Development Environments. In order to observe the richness that each of the Environments offer us, as far as Data Visualization is concerned.
+
 ![3](https://user-images.githubusercontent.com/86130991/130320033-4b26450d-dcd6-4ff3-b8c8-fde675482937.gif)
 
 ## Programming Languages
